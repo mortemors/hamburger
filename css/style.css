@@ -57,6 +57,11 @@ container{
   font-size:  1.3rem;
 }
 
+.showcase p > a {
+  color: blueviolet;
+  font-size:  1.3rem;
+}
+
 .btn {
   display: inline-block;
   border: none;
